@@ -1,0 +1,21 @@
+{
+  "name": "mohibwasay.github.io",
+  "version": "0.0.1",
+  "description": "Official github-pages for mohibwasay.github.io",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohibWasay/mohibwasay.github.io.git"
+  },
+  "author": "Mohib A. Wasay <wasay_siddiqui81@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohibWasay/mohibwasay.github.io/issues"
+  },
+  "homepage": "https://github.com/MohibWasay/mohibwasay.github.io/",
+  "devDependencies": {},
+  "keywords": [],
+  "dependencies": {}
+}
