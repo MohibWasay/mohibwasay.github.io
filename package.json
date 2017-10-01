@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Official github-pages for mohibwasay.github.io",
   "scripts": {
-    "start": ""
+    "build": "npm run lint && webpack --config webpack.config.js -p",
+    "serve": "npm run lint && webpack-dev-server --config webpack.dev.config.js --inline",
+    "lint": "./node_modules/.bin/eslint js"
   },
   "repository": {
     "type": "git",
